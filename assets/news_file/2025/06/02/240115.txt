@@ -1,0 +1,23 @@
+a:60:{s:4:"n_id";s:6:"240115";s:8:"n_solder";s:0:"";s:8:"n_kicker";N;s:6:"n_head";s:145:"হোয়াইটওয়াশের তিক্ত স্বাদ, হারিস ঝড়ে বিধ্বস্ত বাংলাদেশ";s:9:"n_subhead";s:0:"";s:6:"n_slug";N;s:7:"n_intro";N;s:8:"n_author";s:11:"Online Desk";s:14:"n_author_other";s:0:"";s:8:"n_writer";s:1:"0";s:15:"author_location";N;s:9:"n_details";s:3363:"<div class="xdj266r x11i5rnm xat24cr x1mh8g0r x1vvkbs x126k92a">
+<div dir="auto">হোয়াইটওয়াশ এড়ানোর ম্যাচে আগে ব্যাট করে বড় সংগ্রহ নিয়েও তৃতীয় টি-টোয়েন্টিতেও লড়াই করতে পারল না বাংলাদেশ। সফরকারীদের ৭ উইকেটে হারিয়ে ৩-০ ব্যবধানে সিরিজ জিতে নিলো পাকিস্তান।</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">সংযুক্ত আরব আমিরাতের পর পাকিস্তান সফর মিলিয়ে টানা পাঁচ ম্যাচ হারল বাংলাদেশ।</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">&nbsp;</div>
+<div dir="auto">সবশেষ ম্যাচে ১৯৬ রানের পুঁজি নিয়েও কোনো সম্ভাবনা জাগাতে পারেনি লিটন কুমার দাসের দল। মোহাম্মদ হারিসের রেকর্ড গড়া সেঞ্চুরিতে ১৬ বল বাকি থাকতেই জিতে যায় স্বাগতিকরা।</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">তিন নম্বরে নেমে ৮ চার ও ৭ ছক্কায় ৪৬ বলে ১০৭ রানের ইনিংস খেলেন হারিস। ১৭ ম্যাচের ক্যারিয়ারে প্রথম ফিফটিকেই তিন অঙ্কে রূপ দিলেন কিপার-ব্যাটসম্যান। এছাড়া ওপেনার সাইম আইয়ুব খেলেন ২৯ বলে ৪৫ রানের ইনিংস।</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">&nbsp;</div>
+<div dir="auto">সংক্ষিপ্ত স্কোর</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">বাংলাদেশ: ২০ ওভারে ১৯৬/৬ (তানজিদ ৪২, পারভেজ ৬৬, লিটন ২২, হৃদয় ২৫, শামীম ৮, জাকের ১৫*, মিরাজ ১, তানজিম ৮*; সাইম ২-০-২৪-০, হাসান ৪-০-৩৮-২, ফাহিম ৪-০-৪১-১, আব্বাস ৪-০-২৬-২, সালমান ১-০-১১-০, আবরার ২-০-২৭-০, শাদাব ৩-০-২৬-১)</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">পাকিস্তান: ১৭.২ ওভারে ১৯৭/৩ (সাহিবজাদা ১, সাইম ৪৫, হারিস ১০৭*, হাসান ২৬, সালমান ১৫*; মিরাজ ৩-০-২৬-২, হাসান ৩-০-৪২-০, খালেদ ৪-০-৩৭-০, তানজিম ৩-০-৩৬-১, রিশাদ ৩-০-৩৯-০, শামীম ১-০-১১-০, হৃদয় ০.২-০-৫-০)</div>
+</div>";s:10:"n_position";s:8:"10,13,17";s:10:"n_category";s:3:"225";s:8:"division";N;s:17:"multiple_category";N;s:14:"n_sub_category";N;s:12:"article_type";s:1:"1";s:14:"related_tag_id";s:46:"PAK VS BAN, Bangladesh whitewash, Pakistan win";s:12:"category_tag";N;s:12:"related_news";N;s:17:"related_news_post";N;s:6:"n_date";s:10:"2025-06-02";s:10:"start_date";s:19:"2025-06-02 00:20:34";s:8:"end_date";N;s:9:"most_read";N;s:10:"main_image";s:26:"1280x_720_Collage_(10).jpg";s:12:"slider_image";N;s:10:"slider_pos";N;s:9:"n_caption";s:0:"";s:7:"img_alt";N;s:7:"n_video";s:2:"no";s:10:"video_show";N;s:9:"watermark";N;s:11:"latest_news";s:3:"yes";s:9:"home_page";N;s:12:"home_lead_hr";s:6:"240115";s:9:"cat_slide";s:6:"240114";s:11:"cat_p_slide";N;s:11:"selected_hr";s:6:"240115";s:8:"event_hr";s:6:"240115";s:6:"top_hr";s:6:"240115";s:11:"intro_image";N;s:9:"live_news";s:2:"no";s:8:"n_status";s:1:"3";s:8:"w_status";s:1:"0";s:12:"share_status";s:1:"0";s:7:"n_order";N;s:13:"embedded_code";s:0:"";s:9:"n_post_by";s:2:"35";s:9:"n_edit_by";s:2:"35";s:9:"post_time";s:19:"2025-06-02 18:54:34";s:12:"meta_keyword";s:0:"";s:16:"meta_description";s:0:"";s:7:"version";N;s:9:"edit_time";s:19:"2025-06-02 19:07:57";s:11:"update_time";s:19:"2025-06-02 18:54:34";s:13:"cp_protection";N;s:4:"next";a:5:{s:4:"n_id";s:6:"240114";s:6:"n_head";s:128:"বিদায় বললেন বিধ্বংসী কিপার-ব্যাটসম্যান ক্লাসেন";s:10:"n_category";s:3:"225";s:6:"n_date";s:10:"2025-06-02";s:10:"main_image";s:25:"1280x_720_Collage_(9).jpg";}s:8:"previous";a:5:{s:4:"n_id";s:6:"240117";s:6:"n_head";s:131:"১০ রান দূরে থেমে গেল ম্যাক্সওয়েলের ওয়ানডে অধ্যায়!";s:10:"n_category";s:3:"225";s:6:"n_date";s:10:"2025-06-02";s:10:"main_image";s:26:"1280x_720_Collage_(12).jpg";}}

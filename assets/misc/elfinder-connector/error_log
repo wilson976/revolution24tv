@@ -1,0 +1,2 @@
+[29-Oct-2013 14:40:17 America/Denver] PHP Fatal error:  Class 'elFinderVolumeDriver' not found in /home/enews/public_html/new/assets/misc/elfinder-connector/elFinderVolumeMySQL.class.php on line 8
+[29-Oct-2013 14:45:16 America/Denver] PHP Fatal error:  Class 'elFinderVolumeDriver' not found in /home/enews/public_html/new/assets/misc/elfinder-connector/elFinderVolumeLocalFileSystem.class.php on line 9

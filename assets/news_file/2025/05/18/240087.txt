@@ -1,0 +1,22 @@
+a:60:{s:4:"n_id";s:6:"240087";s:8:"n_solder";s:0:"";s:8:"n_kicker";N;s:6:"n_head";s:99:"টিভি-অনলাইনে আজ যা থাকছে খেলার আয়োজন";s:9:"n_subhead";s:0:"";s:6:"n_slug";N;s:7:"n_intro";N;s:8:"n_author";s:19:"Designation default";s:14:"n_author_other";s:0:"";s:8:"n_writer";s:1:"0";s:15:"author_location";N;s:9:"n_details";s:1358:"<p>১ম বেসরকারি টেস্ট&ndash;২য় দিন</p>
+<p>বাংলাদেশ &lsquo;এ&rsquo;&ndash;নিউজিল্যান্ড &lsquo;এ&rsquo;</p>
+<p><br />সকাল ১০টা, টি স্পোর্টস</p>
+<p>ফুটবল</p>
+<p>লা লিগা</p>
+<p>ওসাসুনা-অ্যাতলেটিকো মাদ্রিদ</p>
+<p>সরাসরি, রাত ১১টা</p>
+<p>ভায়েকানো-রিয়াল বেটিস</p>
+<p>সরাসরি, রাত ১১টা</p>
+<p>গেতাফে-অ্যাতলেটিক বিলবাও</p>
+<p>সরাসরি, রাত ১টা ৩০ মিনিট</p>
+<p>এসপানিওল-বার্সেলোনা</p>
+<p>সরাসরি, রাত ১টা ৩০ মিনিট</p>
+<p>ফ্যানকোড, বেট ৩৬৫</p>
+<p>ইংলিশ লিগ ওয়ান</p>
+<p>চার্লটন অ্যাতলেটিক- ওয়াইকম্ব ওয়ান্ডারার্স</p>
+<p>সরাসরি, রাত ১টা</p>
+<p>ফ্যানকোড, বেট ৩৬৫</p>
+<p>টেনিস</p>
+<p>ইতালিয়ান ওপেন</p>
+<p>সরাসরি, বেলা ৩টা</p>
+<p>সনি স্পোর্টস টেন ৫</p>";s:10:"n_position";s:5:"10,17";s:10:"n_category";s:1:"4";s:8:"division";N;s:17:"multiple_category";N;s:14:"n_sub_category";N;s:12:"article_type";s:1:"1";s:14:"related_tag_id";s:0:"";s:12:"category_tag";N;s:12:"related_news";N;s:17:"related_news_post";N;s:6:"n_date";s:10:"2025-05-18";s:10:"start_date";s:19:"2025-05-18 10:51:26";s:8:"end_date";N;s:9:"most_read";s:1:"4";s:10:"main_image";s:25:"1000116319-1747278140.jpg";s:12:"slider_image";N;s:10:"slider_pos";N;s:9:"n_caption";s:0:"";s:7:"img_alt";N;s:7:"n_video";s:2:"no";s:10:"video_show";N;s:9:"watermark";N;s:11:"latest_news";s:3:"yes";s:9:"home_page";N;s:12:"home_lead_hr";s:6:"240087";s:9:"cat_slide";s:6:"240087";s:11:"cat_p_slide";N;s:11:"selected_hr";s:6:"240087";s:8:"event_hr";s:6:"240087";s:6:"top_hr";s:6:"240087";s:11:"intro_image";N;s:9:"live_news";s:2:"no";s:8:"n_status";s:1:"3";s:8:"w_status";s:1:"0";s:12:"share_status";s:1:"0";s:7:"n_order";N;s:13:"embedded_code";s:0:"";s:9:"n_post_by";s:2:"74";s:9:"n_edit_by";s:2:"74";s:9:"post_time";s:19:"2025-05-18 10:51:26";s:12:"meta_keyword";s:0:"";s:16:"meta_description";s:0:"";s:7:"version";N;s:9:"edit_time";s:19:"2025-05-18 19:18:23";s:11:"update_time";s:19:"2025-05-18 10:51:26";s:13:"cp_protection";N;s:4:"next";a:5:{s:4:"n_id";s:6:"240086";s:6:"n_head";s:85:"সেরা সাঁতারুর খোঁজে যাত্রা শুরু";s:10:"n_category";s:1:"4";s:6:"n_date";s:10:"2025-05-18";s:10:"main_image";s:16:"s-1746883225.jpg";}s:8:"previous";a:5:{s:4:"n_id";s:6:"240173";s:6:"n_head";s:66:"শুভ জন্মদিন ফুটবল জাদুকর";s:10:"n_category";s:1:"4";s:6:"n_date";s:10:"2025-06-24";s:10:"main_image";s:16:"Lionel_Messi.jpg";}}

@@ -1,0 +1,19 @@
+a:60:{s:4:"n_id";s:6:"240117";s:8:"n_solder";s:0:"";s:8:"n_kicker";N;s:6:"n_head";s:131:"১০ রান দূরে থেমে গেল ম্যাক্সওয়েলের ওয়ানডে অধ্যায়!";s:9:"n_subhead";s:0:"";s:6:"n_slug";N;s:7:"n_intro";N;s:8:"n_author";s:11:"Online Desk";s:14:"n_author_other";s:0:"";s:8:"n_writer";s:1:"0";s:15:"author_location";N;s:9:"n_details";s:3662:"<div class="xdj266r x11i5rnm xat24cr x1mh8g0r x1vvkbs x126k92a">
+<div dir="auto">চার হাজার ওয়ানডে রান থেকে ১০ রান পেছনে ছিলেন গ্লেন ম্যাক্সওয়েল। সেই দূরত্ব আর কখনও ঘুচবে না। ওয়ানডে ক্রিকেটেই যে আর দেখা যাবে না তাকে! অনেকের মতে ওয়ানডে ইতিহাসের সর্বকালের সেরা ইনিংসটি খেলেছেন যিনি, যার ব্যাট থেকে এসে স্মরণীয় আরও কিছু ইনিংস, আগ্রাসী ও বিনোদনের ফেরিওয়ালা এই ক্রিকেটার বিদায় বলে দিয়েছেন ৫০ ওভারের আন্তর্জাতিক ক্রিকেটকে।</div>
+<div dir="auto">&nbsp;</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">গত চ্যাম্পিয়ন্স ট্রফির পর এই সংস্করণ থেকে অবসরের ঘোষণা দিয়েছিলেন আরেক অস্ট্রেলিয়ান তারকা স্টিভেন স্মিথ। তার সঙ্গী হলেন এবার ম্যাক্সওয়েল। আন্তর্জাতিক টি-টোয়েন্টি অবশ্য খেলে যাবেন ৩৬ বছর বয়সী তারকা। আপাতত তার দৃষ্টি আগামী ফেব্রুয়ারি-মার্চে টি-টোয়েন্টি বিশ্বকাপে।</div>
+<div dir="auto">&nbsp;</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">গত ফেব্রুয়ারি-মার্চে চ্যাম্পিয়ন্স ট্রফিতে তিনটি ম্যাচ খেলেছিলেন ম্যাক্সওয়েল। ইংল্যান্ডের বিপক্ষে স্বভাবসুলভ ব্যাটিংয়ে ১৫ বলে ৩২ রানে অপরাজিত ছিলেন। আফগানদের বিপক্ষে বৃষ্টিতে পরিত্যক্ত ম্যাচে ব্যাটিং পাননি। ভারতের বিপক্ষে আউট হন ৭ রানে। দুবাইয়ে সেই ম্যাচটিই হয়ে থাকল তার ওয়ানডে ক্যারিয়ারের শেষ ম্যাচ।</div>
+<div dir="auto">&nbsp;</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">ফাইনাল ওয়ার্ড পডকাস্ট-এ দীর্ঘ আলোচনার ফাঁকে সোমবার এই অবসরের সিদ্ধান্ত জানান ম্যাক্সওয়েল।</div>
+<div dir="auto">&nbsp;</div>
+</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">১৪৯ ম্যাচে ৩৩.৮১ গড়ে ৩ হাজার ৯৯০ রান নিয়ে শেষ হলো তার ওয়ানডে ক্যারিয়ার। সেঞ্চুরি চারটি, ফিফটি ২৩টি। অফ স্পিনে উইকেট ৭৭টি, ম্যাচে চার উইকেট নিয়েছেন চারবার।</div>
+</div>";s:10:"n_position";s:11:"10,13,16,17";s:10:"n_category";s:3:"225";s:8:"division";N;s:17:"multiple_category";N;s:14:"n_sub_category";N;s:12:"article_type";s:1:"1";s:14:"related_tag_id";s:49:"Glen Maxwell, retirement, Maxwell retire from odi";s:12:"category_tag";N;s:12:"related_news";N;s:17:"related_news_post";N;s:6:"n_date";s:10:"2025-06-02";s:10:"start_date";s:19:"2025-06-02 18:15:00";s:8:"end_date";N;s:9:"most_read";N;s:10:"main_image";s:26:"1280x_720_Collage_(12).jpg";s:12:"slider_image";N;s:10:"slider_pos";N;s:9:"n_caption";s:0:"";s:7:"img_alt";N;s:7:"n_video";s:2:"no";s:10:"video_show";N;s:9:"watermark";N;s:11:"latest_news";s:3:"yes";s:9:"home_page";N;s:12:"home_lead_hr";s:6:"240117";s:9:"cat_slide";s:6:"240117";s:11:"cat_p_slide";N;s:11:"selected_hr";s:6:"240117";s:8:"event_hr";s:6:"240117";s:6:"top_hr";s:6:"240117";s:11:"intro_image";N;s:9:"live_news";s:2:"no";s:8:"n_status";s:1:"3";s:8:"w_status";s:1:"0";s:12:"share_status";s:1:"0";s:7:"n_order";N;s:13:"embedded_code";s:0:"";s:9:"n_post_by";s:2:"35";s:9:"n_edit_by";N;s:9:"post_time";s:19:"2025-06-02 19:06:58";s:12:"meta_keyword";s:39:"glenn maxwell retirement, glenn maxwell";s:16:"meta_description";s:0:"";s:7:"version";N;s:9:"edit_time";N;s:11:"update_time";s:19:"2025-06-02 19:06:58";s:13:"cp_protection";N;s:4:"next";a:5:{s:4:"n_id";s:6:"240115";s:6:"n_head";s:145:"হোয়াইটওয়াশের তিক্ত স্বাদ, হারিস ঝড়ে বিধ্বস্ত বাংলাদেশ";s:10:"n_category";s:3:"225";s:6:"n_date";s:10:"2025-06-02";s:10:"main_image";s:26:"1280x_720_Collage_(10).jpg";}s:8:"previous";N;}

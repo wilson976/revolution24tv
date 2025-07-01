@@ -1,0 +1,66 @@
+[24-Aug-2024 18:31:43 America/Chicago] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php:42
+Stack trace:
+#0 /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home2/mhduhqte/public_html/website_2158fd51/filemanager/dialog.php(4): include('/home2/mhduhqte...')
+#2 {main}
+  thrown in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php on line 42
+[30-Aug-2024 09:48:00 America/Chicago] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php:42
+Stack trace:
+#0 /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home2/mhduhqte/public_html/website_2158fd51/filemanager/dialog.php(4): include('/home2/mhduhqte...')
+#2 {main}
+  thrown in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php on line 42
+[27-Oct-2024 07:01:33 America/Chicago] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php:42
+Stack trace:
+#0 /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home2/mhduhqte/public_html/website_2158fd51/filemanager/dialog.php(4): include('/home2/mhduhqte...')
+#2 {main}
+  thrown in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php on line 42
+[04-Nov-2024 02:59:18 America/Chicago] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php:42
+Stack trace:
+#0 /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home2/mhduhqte/public_html/website_2158fd51/filemanager/dialog.php(4): include('/home2/mhduhqte...')
+#2 {main}
+  thrown in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php on line 42
+[06-Nov-2024 08:15:05 America/Chicago] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php:42
+Stack trace:
+#0 /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home2/mhduhqte/public_html/website_2158fd51/filemanager/dialog.php(4): include('/home2/mhduhqte...')
+#2 {main}
+  thrown in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php on line 42
+[07-Nov-2024 02:13:54 America/Chicago] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php:42
+Stack trace:
+#0 /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home2/mhduhqte/public_html/website_2158fd51/filemanager/dialog.php(4): include('/home2/mhduhqte...')
+#2 {main}
+  thrown in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php on line 42
+[11-Nov-2024 23:42:12 America/Chicago] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php:42
+Stack trace:
+#0 /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home2/mhduhqte/public_html/website_2158fd51/filemanager/dialog.php(4): include('/home2/mhduhqte...')
+#2 {main}
+  thrown in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php on line 42
+[10-Jan-2025 06:02:02 America/Chicago] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php:42
+Stack trace:
+#0 /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home2/mhduhqte/public_html/website_2158fd51/filemanager/dialog.php(4): include('/home2/mhduhqte...')
+#2 {main}
+  thrown in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php on line 42
+[03-Feb-2025 11:36:45 America/Chicago] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php:42
+Stack trace:
+#0 /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home2/mhduhqte/public_html/website_2158fd51/filemanager/dialog.php(4): include('/home2/mhduhqte...')
+#2 {main}
+  thrown in /home2/mhduhqte/public_html/website_2158fd51/filemanager/config/config.php on line 42
+[21-Jun-2025 07:23:48 UTC] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home/sportsbd/public_html/filemanager/config/config.php:42
+Stack trace:
+#0 /home/sportsbd/public_html/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home/sportsbd/public_html/filemanager/dialog.php(4): include('/home/sportsbd/...')
+#2 {main}
+  thrown in /home/sportsbd/public_html/filemanager/config/config.php on line 42
+[23-Jun-2025 08:08:21 UTC] PHP Fatal error:  Uncaught ValueError: mb_http_input(): Argument #1 ($type) must be one of "G", "P", "C", "S", "I", or "L" in /home/sportsbd/public_html/filemanager/config/config.php:42
+Stack trace:
+#0 /home/sportsbd/public_html/filemanager/config/config.php(42): mb_http_input('UTF-8')
+#1 /home/sportsbd/public_html/filemanager/dialog.php(4): include('/home/sportsbd/...')
+#2 {main}
+  thrown in /home/sportsbd/public_html/filemanager/config/config.php on line 42

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow:
+
+Disallow: /home/printnews/*
+Disallow: /cgi-bin/
+Disallow: /cdn-cgi/
+Disallow: /sitemap/*
+Sitemap: https://www.revolution24.tv/daily-sitemap/sections/sitemap.xml
+Sitemap: https://www.revolution24.tv/sitemap-2024.xml
+Sitemap: https://www.revolution24.tv/2024/sitemap-news.xml 
